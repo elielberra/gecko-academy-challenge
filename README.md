@@ -1,6 +1,6 @@
 # Overview
 
-This repo contains my solutions for Levels 1 and 2 of the Gecko Academy Challenge. Over the days following October 23rd, 2026, I'll attempt to solve Levels 3 and 4, and I'll push new commits with their solutions if I'm successful.
+This repo contains my solutions for Levels 1, 2 and 3 of the Gecko Academy Challenge.
 
 # My Approach
 
@@ -22,4 +22,5 @@ To get the solutions, compile and run the `solution.c` file of each level, passi
 # Run from the root of this repo
 gcc level-1/solution.c -o level-1/solution && level-1/solution eliel
 gcc level-2/solution.c -o level-2/solution && level-2/solution eliel
+gcc level-3/solution.c -o level-3/solution && level-3/solution eliel
 ```
